@@ -1,5 +1,4 @@
 # 💫 About Me: 
-<img width="242" height="240" alt="Screenshot 2025-09-14 at 00 27 56" src="https://github.com/user-attachments/assets/3b8cda33-c483-49fe-8531-31ca34b83767" />
 
 🔭 I’m currently working
  on Front end development<br><br>👯 I’m looking to collaborate on React projects & Mobile App Development<br><br>🤝 I’m looking for help with Mobile App Development<br><br>🌱 I’m currently learning Front end development React library<br><br>💬 Ask me about HTML, Css & Vanilla Javascript<br><br>⚡ Fun fact - I like Front end but i want to develop apps for mobile
